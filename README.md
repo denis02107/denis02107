@@ -4,11 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denis02107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Languages:</h3>
+<h3>📋 Languages:</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <h3>💾 Databases:</h3>
 
@@ -16,4 +17,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<h3>🎛️ Operating System:</h3>
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
