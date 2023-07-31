@@ -3,7 +3,7 @@
 <h3 align="center">student from Russia 🇷🇺</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denis02107&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![](https://leetcard.denis02107/leetcode?site=cn)
+![Leetcode Stats](https://leetcard.denis02107/leetcode?site=cn)
 
 <h3>💬 Social</h3>
 
