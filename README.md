@@ -5,6 +5,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denis02107&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Leetcode Stats](https://leetcode.card.workers.dev/denis02107?theme=dark&font=baloo&extension=null)
 
+<h3>My projects</h3>
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) - https://t.me/ITeckai - VPN bot with pay<br>
 
 <h3>💬 Social</h3>
 
