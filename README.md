@@ -3,10 +3,20 @@
 
 <p align="center">
   <a href="https://github.com/denis02107/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis02107&layout=compact&theme=dark" alt="Top Langs" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis02107&layout=compact&theme=dark" 
+      alt="Top Langs" 
+      width="500" 
+      height="250" 
+    />
   </a>
   <a href="https://leetcode.com/denis02107/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=denis02107&repo=github-readme-leetcode&theme=dark" alt="LeetCode Stats" />
+    <img 
+      src="https://leetcard.jacoblin.cool/denis02107?theme=dark&font=Ruda&ext=heatmap" 
+      alt="LeetCode Stats" 
+      width="500" 
+      height="250" 
+    />
   </a>
 </p>
 
@@ -78,10 +88,4 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
----
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=denis02107&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </a>
-</p>
